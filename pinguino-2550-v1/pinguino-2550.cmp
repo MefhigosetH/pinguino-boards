@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by CvPcb (2012-nov-02)-stable date = jue 06 feb 2014 12:34:21 ART
+
+BeginCmp
+TimeStamp = /52EAEA72;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAEA9A;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAF3DC;
+Reference = C3;
+ValeurCmp = 22pF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAF3C3;
+Reference = C4;
+ValeurCmp = 22pF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAF631;
+Reference = C5;
+ValeurCmp = 220nF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAEEA0;
+Reference = D1;
+ValeurCmp = PWRLED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAFB03;
+Reference = D2;
+ValeurCmp = USERLED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE320;
+Reference = J1;
+ValeurCmp = USB;
+IdModule  = USB_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE567;
+Reference = J2;
+ValeurCmp = BATT;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE5D3;
+Reference = J3;
+ValeurCmp = SELECT;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EB0844;
+Reference = J4;
+ValeurCmp = ANALOG;
+IdModule  = PIN_ARRAY_5x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EB0853;
+Reference = J5;
+ValeurCmp = DIGITAL;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EB0D8E;
+Reference = J6;
+ValeurCmp = PWM-1;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EB0DA7;
+Reference = J7;
+ValeurCmp = PWM-2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EB1355;
+Reference = J8;
+ValeurCmp = UART;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAEE87;
+Reference = R1;
+ValeurCmp = 470;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAF69C;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAFAE0;
+Reference = R3;
+ValeurCmp = 470;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAF6BF;
+Reference = SW1;
+ValeurCmp = RESET;
+IdModule  = custom-switch-5x5-2pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE2A1;
+Reference = U1;
+ValeurCmp = PIC18F2550;
+IdModule  = dil_28-300_socket;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE38D;
+Reference = U2;
+ValeurCmp = LM7805CT;
+IdModule  = to220_std;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAF3AA;
+Reference = X1;
+ValeurCmp = 20Mhz;
+IdModule  = crystal_hc-49s;
+EndCmp
+
+EndListe
