@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date jue 03 abr 2014 00:37:07 ART
+EESchema Schematic File Version 2  date vie 04 abr 2014 20:51:02 ART
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -36,7 +36,7 @@ $Descr User 8268 11693
 encoding utf-8
 Sheet 1 1
 Title "Pinguino 2550"
-Date "2 apr 2014"
+Date "4 apr 2014"
 Rev "2.0.1"
 Comp "E.E.T. Nro.7 - Banfield"
 Comment1 "Prof. Victor Villarreal"
@@ -665,4 +665,6 @@ Wire Wire Line
 	5700 9700 5700 9300
 Wire Wire Line
 	5700 9300 4950 9300
+Text Notes 600  8800 0    60   ~ 0
+Referencia\n==========\n| C1         100nF\n| C2         10uF\n| C3         22pF\n| C4         22pF\n| C5         220nF\n| D1         PWRLED\n| D2         USERLED\n| J1         USB (Conector USB tipo B)\n| J2         BATT (Bornera alimentación externa)\n| J3         SELECT (Jumper seleción alim. externa o USB)\n| J4         A0 (Bornera entradas analógicas)\n| J5         A1 (Bornera entradas analógicas)\n| J6         PWM-1 (Bornera salidas analógicas)\n| J8         UART (Bornera puerto serie)\n| J9         D0 (Bornera salidas digitales)\n| J10        D1 (Bornera salidas digitales)\n| J11        D2\n| J12        D3\n| R1         470\n| R2         10K\n| R3         470\n| SW1        RESET\n| U1         PIC18F2550\n| U2         LM7805CT\n| X1         20Mhz
 $EndSCHEMATC

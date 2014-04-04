@@ -1,0 +1,58 @@
+eeschema (2012-nov-02)-stable  >> Creation date: vie 04 abr 2014 20:41:15 ART
+#Cmp ( order = Reference )
+| C1         100nF       
+| C2         10uF        
+| C3         22pF        
+| C4         22pF        
+| C5         220nF       
+| D1         PWRLED      
+| D2         USERLED     
+| J1         USB         
+| J2         BATT        
+| J3         SELECT      
+| J4         A0          
+| J5         A1          
+| J6         PWM-1       
+| J8         UART        
+| J9         D0          
+| J10        D1          
+| J11        D2          
+| J12        D3          
+| R1         470         
+| R2         10K         
+| R3         470         
+| SW1        RESET       
+| U1         PIC18F2550  
+| U2         LM7805CT    
+| X1         20Mhz       
+#End Cmp
+
+#Componentes ( orden = Valor )
+| 22pF         C3        
+| 22pF         C4        
+| 100nF        C1        
+| 220nF        C5        
+| 10uF         C2        
+| PWRLED       D1        
+| USERLED      D2        
+| USB          J1        
+| BATT         J2        
+| SELECT       J3        
+| A0           J4        
+| A1           J5        
+| PWM-1        J6        
+| UART         J8        
+| D0           J9        
+| D1           J10       
+| D2           J11       
+| D3           J12       
+| 470          R1        
+| 470          R3        
+| 10K          R2        
+| RESET        SW1       
+| PIC18F2550   U1        
+| LM7805CT     U2        
+| 20Mhz        X1        
+#Fin Componentes
+
+#Fin de Lista
