@@ -8,9 +8,11 @@ For more info, please visit:
 * Official site at http://www.pinguino.cc
 * My personal blog at http://www.mefhigoseth.com.ar/p/pinguino.html
 
-### Requirements
+Notes:
 
-The schematics and boards are designed with Kicad 2012-nov-02 version.
+* The schematics and boards are designed with Kicad 2012-nov-02 version.
+* Master branch have the latest stable board design. Recomended for production. Test passed.
+* Testing branch may have partial, incomplete or non-functional boards. Use at your own risk.
 
 # pinguino-2550-v1
 
