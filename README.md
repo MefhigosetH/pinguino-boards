@@ -14,6 +14,8 @@ The schematics and boards are designed with Kicad 2012-nov-02 version.
 
 # pinguino-2550-v1
 
+![pinguino-2550-v1-3D-model](https://github.com/MefhigosetH/pinguino-boards/raw/testing/pinguino-2550-v1/pinguino-2550.png)
+
 Pinguino board based on PIC18F2550. Features:
 
 * Small form factor: 80x30 mm
@@ -25,6 +27,8 @@ Pinguino board based on PIC18F2550. Features:
 * Easy home-based build the board (DIY).
 
 # pinguino-2550-v2
+
+![pinguino-2550-v2-3D-model](https://github.com/MefhigosetH/pinguino-boards/raw/testing/pinguino-2550-v2/doc/pinguino-2550-v2.png)
 
 Pinguino board based on PIC18F2550. Features:
 
